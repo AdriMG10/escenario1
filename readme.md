@@ -11,3 +11,5 @@
 #Esta es la revisión 6. La última para completar la tarea.
 
 #Para alcanzar la máxima nota es necesario hacer más revisiones, así que allá vamos. Esta es la revisión 7.
+
+#Esta es la revisión 8. El número 8 según la numerología es considerado el símbolo del equilibrio cósmico. 
